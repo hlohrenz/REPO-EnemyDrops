@@ -1,8 +1,0 @@
-C:\Users\lilpe\Documents\HappyCatMods\REPO\EnemyDrops\obj\Debug\netstandard2.1\EnemyDrops.csproj.AssemblyReference.cache
-C:\Users\lilpe\Documents\HappyCatMods\REPO\EnemyDrops\obj\Debug\netstandard2.1\EnemyDrops.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lilpe\Documents\HappyCatMods\REPO\EnemyDrops\obj\Debug\netstandard2.1\EnemyDrops.AssemblyInfoInputs.cache
-C:\Users\lilpe\Documents\HappyCatMods\REPO\EnemyDrops\obj\Debug\netstandard2.1\EnemyDrops.AssemblyInfo.cs
-C:\Users\lilpe\Documents\HappyCatMods\REPO\EnemyDrops\obj\Debug\netstandard2.1\EnemyDrops.csproj.CoreCompileInputs.cache
-C:\Users\lilpe\Documents\HappyCatMods\REPO\EnemyDrops\bin\Debug\netstandard2.1\EnemyDrops.deps.json
-C:\Users\lilpe\Documents\HappyCatMods\REPO\EnemyDrops\bin\Debug\netstandard2.1\EnemyDrops.dll
-C:\Users\lilpe\Documents\HappyCatMods\REPO\EnemyDrops\obj\Debug\netstandard2.1\EnemyDrops.dll
