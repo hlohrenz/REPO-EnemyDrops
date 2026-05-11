@@ -1,0 +1,7 @@
+{
+    "name": "Enemy_Drops",
+    "description": "Configure chance percentages for enemies to drop health packs and various other items when they die.",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2305"]
+}
