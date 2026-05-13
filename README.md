@@ -16,7 +16,7 @@ Only the host needs the mod installed!
 | `HealthPackChance` | Percentage chance (0-100) for an enemy to drop a health pack when it dies | `50%` |
 
 ## Changelog
-- **1.0.0**: Initial release of enemy health-pack drops
+- **1.0.0**: Initial release
 
 ## Credits
 Made by **HappyCats**
